@@ -9,7 +9,7 @@
 //https://vulkan-tutorial.com/Development_environment
 
 
-
+/*
 #include <vulkan/vulkan.h>
 
 #include <iostream>
@@ -50,10 +50,10 @@ int main() {
 
     return EXIT_SUCCESS;
 }
+*/
 
 
 
-/*
 #define GLFW_INCLUDE_VULKAN
 #include <GLFW/glfw3.h>
 
@@ -90,4 +90,4 @@ int main() {
     return 0;
 }
 
-*/
+
