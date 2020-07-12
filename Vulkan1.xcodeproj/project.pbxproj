@@ -97,9 +97,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 44253C2F24B9FA280078698F /* Build configuration list for PBXNativeTarget "Vulkan1" */;
 			buildPhases = (
-				44253C2424B9FA280078698F /* Sources */,
 				44253C2524B9FA280078698F /* Frameworks */,
 				44253C2624B9FA280078698F /* CopyFiles */,
+				44253C2424B9FA280078698F /* Sources */,
 			);
 			buildRules = (
 			);
